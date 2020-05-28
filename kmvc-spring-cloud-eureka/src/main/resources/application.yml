@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: kmvc-spring-cloud-eureka
+
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: localhost #//eureka服务器地址
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl: #//eureka服务地址
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/

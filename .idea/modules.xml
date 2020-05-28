@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kmvc.spring.cloud.zuul/hello-spring-cloud-zuul.iml" filepath="$PROJECT_DIR$/kmvc.spring.cloud.zuul/hello-spring-cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmvc-spring-cloud-config/kmvc-spring-cloud-config.iml" filepath="$PROJECT_DIR$/kmvc-spring-cloud-config/kmvc-spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmvc-spring-cloud-config-client/kmvc-spring-cloud-config-client.iml" filepath="$PROJECT_DIR$/kmvc-spring-cloud-config-client/kmvc-spring-cloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmvc-spring-cloud-dependencies/kmvc-spring-cloud-dependencies.iml" filepath="$PROJECT_DIR$/kmvc-spring-cloud-dependencies/kmvc-spring-cloud-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmvc-spring-cloud-eureka/kmvc-spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/kmvc-spring-cloud-eureka/kmvc-spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmvc-spring-cloud-service-admin/kmvc-spring-cloud-service-admin.iml" filepath="$PROJECT_DIR$/kmvc-spring-cloud-service-admin/kmvc-spring-cloud-service-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmvc-spring-cloud-web-admin-feign/kmvc-spring-cloud-web-admin-feign.iml" filepath="$PROJECT_DIR$/kmvc-spring-cloud-web-admin-feign/kmvc-spring-cloud-web-admin-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmvc-spring-cloud-web-admin-ribbon/kmvc-spring-cloud-web-admin-ribbon.iml" filepath="$PROJECT_DIR$/kmvc-spring-cloud-web-admin-ribbon/kmvc-spring-cloud-web-admin-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kmvc-spring-cloud-zipkin/kmvc-spring-cloud-zipkin.iml" filepath="$PROJECT_DIR$/kmvc-spring-cloud-zipkin/kmvc-spring-cloud-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-cloud.iml" />
+    </modules>
+  </component>
+</project>
